@@ -15,12 +15,14 @@ O React Router oferece alguma facilidade para subir em clouds como a AWS? Pois s
  ```
 
 ## https://www.prisma.io/
+ ```
  npx prisma init
  npm i @prisma/adapter-libsql prisma
-
+ ```
  Criar arquivos do prisma:
-
+ 
+ ```
  npm i dotenv
  npx prisma generate
-
+ ```
  tempo -46:30
